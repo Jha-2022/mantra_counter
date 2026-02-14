@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-    
+    <div>
+      <img src='/public/Mahamrityunjay-Mantra.jpg' alt  ="mantra" id = "photo"/>
+    </div>
     <div>
       <img src='/assets/shiv1.jpg' alt  ="mantra" id = "photo"/>
     </div>
