@@ -6,9 +6,8 @@ function App() {
 
   return (
     <>
-   
     <div>
-      <img src='/public/shiv1.jpg' alt  ="mantra" id = "photo"/>
+      <img src='/public/shiv1.png' alt  ="mantra" id = "photo"/>
     </div>
     <div className="card">
        <button onClick={() => setCount((count) => count + 1)}>
