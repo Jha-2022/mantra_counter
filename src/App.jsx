@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <div>
-      <img src='/assets/Mahamrityunjay-Mantra.jpg' alt  ="mantra" id = "photo"/>
+      <img src='/assets/Mahamrityunjay-Mantra (2).jpg' alt  ="mantra" id = "photo"/>
     </div>
     <div>
       <img src='/assets/shiv1.jpg' alt  ="mantra" id = "photo"/>
